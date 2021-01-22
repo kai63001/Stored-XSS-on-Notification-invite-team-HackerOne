@@ -1,5 +1,5 @@
 # -hack1chall
-XSS in frist name on page notification bypass limit character
+STORED XSS in frist name on page notification bypass limit character
 
 `<script src=url.js/>` 
 `<svg onload=alert(1) />` 
